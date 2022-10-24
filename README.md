@@ -1,2 +1,3 @@
-# gitbook-plugin-page-footer-mofar
+# gitbook-plugin-page-footer-extend
+
 gitbook的页脚插件
