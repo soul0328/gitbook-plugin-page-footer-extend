@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### Installation
 
 Add the following plugins to your `book.json` and run `gitbook install`
@@ -36,3 +37,8 @@ The default configuration is:
 }
 ```
 
+=======
+# gitbook-plugin-page-footer-extend
+
+gitbook的页脚插件
+>>>>>>> 49f7dce3d277c4eec4ff55489812215985110373
