@@ -1,0 +1,33 @@
+{
+  "name": "gitbook-plugin-page-footer-extend",
+  "version": "1.0.0",
+  "description": "gitbook的生成页脚的插件",
+  "engines": {
+    "gitbook": ">=3.0.0-pre.0"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soul0328/gitbook-plugin-page-footer-mofar.git"
+  },
+  "keywords": [
+    "gitbook",
+    "gitbook-plugin",
+    "page-footer",
+    "footer"
+  ],
+  "contributors": [
+    "soul <soul0328@qq.com>"
+  ],
+  "main": "./lib/index.js",
+  "license": "MIT",
+  "dependencies": {
+    "handlebars": "^4.7.7",
+    "sync-request": "3.0.1",
+    "node-cache": "3.2.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.4.0",
+    "eslint-config-aleen42": "^1.0.4"
+  }
+}
