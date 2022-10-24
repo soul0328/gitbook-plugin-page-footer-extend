@@ -34,7 +34,7 @@ The default configuration is:
             "copyrightColor": "#666",
             "utcOffset": "8",
             "isShowQRCode": true,
-            "baseUri": "https://www.mofar.top/",
+            "baseUri": "https://www.mofar.top/"
         }
     }
 }
