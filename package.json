@@ -1,6 +1,6 @@
 {
   "name": "gitbook-plugin-page-footer-extend",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "gitbook的生成页脚的插件",
   "engines": {
     "gitbook": ">=3.0.0-pre.0"
