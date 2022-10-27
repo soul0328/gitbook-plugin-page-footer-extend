@@ -18,11 +18,13 @@
             </div>
         </div>
     </div>
-    <div class="box__extend" style="display: {{isShowExtend ? 'block' : 'none' }}">
+    {{#if isShowExtend}}
+    <div class="box__extend">
         <span class="extend-line">
             <p class="extend-header">
                 {{extendContent}}
             </p>
         </span>
     </div>
+    {{/if}}
 </div>
